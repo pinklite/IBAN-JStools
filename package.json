@@ -1,0 +1,8 @@
+{
+  "name": "IBAN-JStools",
+  "version": "0.0.1",
+  "description": "Validate, format, convert BBAN (Basic Bank Account Number) and IBAN (International Bank Account Number) and get bank information on countries with this javascript libary",
+  "main": "iban-tools.js",
+  "repository": "https://github.com/MECHAPOULPE/IBAN-JStools.js",
+  "author": "Joris Hotton alias MECHAPOULPE"
+}
