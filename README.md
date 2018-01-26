@@ -26,7 +26,7 @@ IBAN.isValidBBAN('123456789123456', 'BE') // false
 Using a module loader (AMD or commonjs) or directly through the global ```IBAN``` object:
 
 ```html
-<script src="iban.js"></script>
+<script src="iban-JStools.js"></script>
 <script>
     // the API is now accessible from the window.IBAN global object
     IBAN.isValid('hi everyone'); // false
